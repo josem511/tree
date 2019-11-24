@@ -1,5 +1,5 @@
 # tree
-###using recursion and sliders to create a beautiful tree that you can interact with using a slide.###
+### using recursion and sliders to create a beautiful tree that you can interact with using a slide.###
 
 
 Output:
